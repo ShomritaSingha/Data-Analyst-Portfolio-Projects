@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio-Projects
+# Python-Portfolio-Projects
 My Data Analyst Portfolio
