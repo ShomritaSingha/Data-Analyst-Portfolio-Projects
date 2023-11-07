@@ -25,7 +25,7 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 # Data Analysis Process
 
-This README outlines the data analysis process I undertook, highlighting the steps and key performance indicators (KPIs) involved in the analysis.
+This part outlines the data analysis process I undertook, highlighting the steps and key performance indicators (KPIs) involved in the analysis.
 
 ## Data Cleaning and Correction
 
