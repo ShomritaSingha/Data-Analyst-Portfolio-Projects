@@ -92,7 +92,7 @@ This part outlines the data analysis process I undertook, highlighting the steps
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
+![Alt text of the image]([https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png))
 
 
 
@@ -107,4 +107,4 @@ This part outlines the data analysis process I undertook, highlighting the steps
 
 ## **Final Conclusion:**
 
-To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+To improve sales of The Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
