@@ -5,7 +5,7 @@
 The Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2023.
 
 ## **Dataset used**
-- <a (https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20Inventory%20Store%20Data%20Analysis%20(1).xlsx)</a>
+- <a (https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20Inventory%20Store%20Data%20Analysis%20(1).xlsx)</a>The Store Data</a>
 
 ## ** KPIs to consider **
 
