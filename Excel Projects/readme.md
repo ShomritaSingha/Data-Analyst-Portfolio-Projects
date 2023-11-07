@@ -46,4 +46,3 @@ The objective of this project is to perform a comprehensive analysis of call cen
 This call center data analysis project provides valuable insights into the performance and patterns within the call center for October 2020. The interactive dashboard offers a user-friendly way to explore and understand the data. The project showcases the power of Excel in data analysis and visualization, enabling data-informed decision-making.
 
 **<span style="color: #ff7f50">Author: [Shomrita Singha]</span>**
-
