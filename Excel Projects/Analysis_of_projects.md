@@ -25,68 +25,68 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 # Data Analysis Process
 
-This part outlines the data analysis process I undertook, highlighting the steps and key performance indicators (KPIs) involved in the analysis.
+In this section, I'll walk you through the step-by-step process of data analysis using Excel, without getting too technical.
 
 ## Data Cleaning and Correction
 
 ### Data Verification and Cleaning:
-- I began by meticulously verifying the dataset, leveraging Excel's COUNTIF and FILTER functions to identify missing values and anomalies, ensuring data integrity.
+- First, I carefully checked the dataset in Excel, using simple functions like COUNTIF and FILTER to find any missing values or unusual entries, ensuring that our data was reliable.
 
 ### Data Cleaning and Correction:
-- I followed up with a thorough data cleaning process, using Excel's 'Text to Columns' and 'Text' functions to format and structure the data accurately, achieving consistency and appropriateness.
+- After identifying potential issues, I used Excel's 'Text to Columns' and 'Text' functions to format and structure the data consistently, making sure it was clean and accurate.
 
 ## Analysis and Calculations
 
 ### Comparing Sales and Orders:
-- I compared sales and orders using a combination chart in Excel to visualize both variables in a single view, providing a clear representation of the relationship.
+- To understand the relationship between sales and orders, I created a straightforward combination chart in Excel, making it easy to see both variables together.
 
 ### Identifying the Highest Sales and Orders Month:
-- Excel's pivot table functionality allowed me to summarize data by month and identify the month with the highest sales and orders, enhancing insights.
+- Excel's pivot tables were handy for summarizing the data by month, helping me pinpoint the month with the highest sales and orders, providing valuable insights.
 
 ### Analyzing Purchases by Gender:
-- Using Excel's pivot tables, I grouped and summarized data by gender, facilitating an accurate comparison of purchases between men and women.
+- Using pivot tables in Excel, I grouped and summarized data by gender, making it simple to compare purchases made by men and women.
 
 ### Identifying Different Order Statuses in 2022:
-- I filtered the data for the year 2022 and used Excel's "Remove Duplicates" feature to generate a unique list of order statuses for that specific year.
+- By filtering the data for the year 2022 and removing duplicates in Excel, I generated a list of unique order statuses for that specific year.
 
 ### Listing Top 10 Contributing States:
-- Excel's pivot table feature was instrumental in grouping data by states, calculating total sales, and sorting the results to identify the top 10 states contributing the most to sales.
+- Excel's pivot table feature allowed me to group data by states, calculate total sales, and sort the results, revealing the top 10 states contributing the most to sales.
 
 ### Analyzing the Relationship Between Age and Gender:
-- I employed a pivot table to group data by age and gender, enabling a detailed analysis of the number of orders made by different age groups and genders.
+- I employed pivot tables to group data by age and gender, offering a detailed analysis of the number of orders made by different age groups and genders.
 
 ### Determining the Highest Contributing Sales Channel:
-- By grouping data by sales channels and calculating total sales, I identified the channel that contributed the most to overall sales, enhancing decision-making.
+- By grouping data by sales channels and calculating total sales in Excel, I identified the channel that contributed the most to overall sales, assisting decision-making.
 
 ### Finding the Highest Selling Category:
-- Leveraging Excel's pivot table, I summarized sales data by category and sorted it to reveal the category with the highest sales, aiding in understanding product performance.
+- Leveraging Excel's pivot table, I summarized sales data by category and sorted it, making it easier to understand which category had the highest sales.
 
 ## Visualization
 
 ### Combination Chart for Sales and Orders:
-- To visually compare sales and orders, I used a combination chart in Excel, presenting both variables in a single, easy-to-understand format.
+- To visually compare sales and orders, I used a simple combination chart in Excel, displaying both variables in one view.
 
 ### Graphical Representation of Highest Sales and Orders Month:
-- I visualized the highest sales and orders month using Excel's pivot table data, providing a clear and visually appealing representation.
+- I created a visual representation of the month with the highest sales and orders using Excel's pivot table data.
 
 ### Gender-Based Purchases Visualized:
-- Charts were used to effectively visualize gender-based purchase data, making it easier to comprehend the comparison between purchases made by men and women.
+- Excel charts helped me visualize purchases by gender, simplifying the comparison between men and women.
 
 ### Order Statuses for 2022:
-- Different order statuses for 2022 were visually represented, providing an intuitive understanding of the various statuses using Excel's charting capabilities.
+- I used Excel's charting capabilities to represent different order statuses for 2022, providing a clear understanding of the various status categories.
 
 ### Top 10 Sales-Contributing States Displayed Visually:
-- The top 10 states contributing to sales were displayed in a visually appealing format, allowing viewers to quickly identify the highest contributors.
+- I presented the top 10 states contributing to sales in a visually straightforward format, making it easy to identify the major contributors.
 
 ### Age and Gender Relationship Visualized:
-- The relationship between age and gender, based on the number of orders, was effectively visualized using appropriate charts or graphs for a more intuitive understanding.
+- To understand the connection between age and gender based on the number of orders, I created simple Excel charts and graphs for an intuitive understanding.
 
 ### Sales Channel Contribution Visualized:
-- The sales channel that contributed the most to sales was effectively visualized, making it easy for viewers to identify the primary revenue driver.
+- I used Excel to create a visual representation of the sales channel that contributed the most to overall sales, making it easy for viewers to grasp.
 
 ### Highest Selling Category Visualized:
-- A visual representation of the highest selling category was provided, simplifying the process of identifying the top-performing category for quick comprehension.
- <a href="https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png">dashboard interactive</a> and dynamic.
+- A visual representation of the highest selling category was provided, simplifying the process of identifying the top-performing category.
+<a href="https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png">dashboard interactive</a> and dynamic.
 
 
 
