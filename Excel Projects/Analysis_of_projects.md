@@ -8,7 +8,7 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 [Store Data Analysis](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20Inventory%20Store%20Data%20Analysis%20(1).xlsx)
 
 
-## ** KPIs to consider **
+## **KPIs to consider**
 
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -21,7 +21,7 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 
 
-## **Process**
+## **Walkthrough**
 
 # Data Analysis Process
 
