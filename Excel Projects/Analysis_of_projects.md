@@ -21,7 +21,7 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 
 
-## **Walkthrough**
+
 
 # Data Analysis Process
 
