@@ -86,15 +86,13 @@ This part outlines the data analysis process I undertook, highlighting the steps
 
 ### Highest Selling Category Visualized:
 - A visual representation of the highest selling category was provided, simplifying the process of identifying the top-performing category for quick comprehension.
- <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.
+ <a href="https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png">dashboard interactive</a> and dynamic.
 
 
 
 ## **Dashboard**
 
-![Alt text of the image]([https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png))
-
-
+![Alt text of the image]([https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png]
 
 ## **Project Insight**
 
