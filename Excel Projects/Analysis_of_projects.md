@@ -92,7 +92,8 @@ This part outlines the data analysis process I undertook, highlighting the steps
 
 ## **Dashboard**
 
-![Alt text of the image]([https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png]
+![Alt text of the image](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png)
+
 
 ## **Project Insight**
 
