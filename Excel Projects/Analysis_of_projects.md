@@ -25,8 +25,7 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 # Data Analysis Process
 
-In this section, I'll walk you through the step-by-step process of data analysis using Excel, without getting too technical.
-
+In this section, I have elaborately explained each and every step-by-step process that I have gone through while analyzing the store dataset.
 ## Data Cleaning and Correction
 
 ### Data Verification and Cleaning:
