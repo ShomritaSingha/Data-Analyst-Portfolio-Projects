@@ -39,7 +39,7 @@ In my journey through this call center data analysis project, I followed these s
 - To enhance user-friendliness, I harnessed slicers, making the dashboard engaging and easy to navigate.
 - Lastly, I added my personal touch by customizing the dashboard's design and layout.
 
-These steps represent my journey of creating and analyzing this portfolio project, focusing on showcasing insights rather than providing a tutorial-like narrative.
+These steps represent my journey of creating and analyzing this portfolio project, focusing on showcasing insights.
 
 ## **Dashboard**
 
