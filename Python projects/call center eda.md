@@ -31,7 +31,11 @@ The project starts by importing data from the Excel file into a Pandas DataFrame
 ## Overview
 
 The data cleaning and structuring phase of this project focuses on refining the integrity and organization of the customer call list dataset. Employing Python and the Pandas library, this phase aims to enhance the dataset's quality, resolve anomalies, and create a structured format conducive to efficient analysis.
-THis was the Data in the begining : ![Alt text of the image](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/Scrapped%20from%20call%20center%20csv%20data%20uncleaned.png)
+
+This was the Data in the begining :
+![Alt text of the image](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/Scrapped%20from%20call%20center%20csv%20data%20uncleaned.png)
+
+
 ## Key Steps
 
 ### a. Duplicate Removal
@@ -50,7 +54,9 @@ The 'Last_Name' column undergoes a meticulous cleaning process to strip away spe
 
 The formatting of phone numbers is standardized for clarity and ease of interpretation. This involves removing non-alphanumeric characters, converting numbers to strings, and applying a structured format.
 
-**Further structuring of the Data it looks like** ![Alt text of the image](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/before%20formating%20the%20cells%20and%20handling%20the%20null%20exceptions.png)
+**Further structuring of the Data it looks like**
+
+![Alt text of the image](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/before%20formating%20the%20cells%20and%20handling%20the%20null%20exceptions.png)
 
 ### e. Standardizing Values
 
@@ -68,9 +74,7 @@ Rows flagged for 'Do_Not_Contact' are purposefully excluded to comply with conta
 
 The final step involves resetting the index for the dataset, providing a clean and organized structure ready for further exploration and analysis.
 
-## Conclusions
 
-This data cleaning and structuring phase is pivotal in transforming raw data into a refined and organized format. By addressing duplicates, anomalies, and standardizing values, the dataset is primed for meaningful analysis, allowing for insights and applications that leverage a high-quality and well-structured foundation. The adaptable code welcomes customization based on specific project requirements.
 
 ## **Final Cleaned Data**
 
