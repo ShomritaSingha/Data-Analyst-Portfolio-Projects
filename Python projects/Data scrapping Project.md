@@ -1,5 +1,7 @@
 # Project 1 Description: Web Scraping and Data Analysis with Pandas
 
+[**Link to collab Notebook on GitHub**](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/Data_scrapping_%26pandas_project.ipynb)
+
 ## Overview
 
 Welcome to my GitHub repository showcasing a data analysis project focusing on web scraping and data manipulation using Python. In this project, I aimed to extract and analyze information about the largest companies in the United States by revenue, utilizing web scraping techniques with BeautifulSoup and data manipulation capabilities of Pandas.
