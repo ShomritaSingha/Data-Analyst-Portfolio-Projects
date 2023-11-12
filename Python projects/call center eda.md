@@ -1,5 +1,7 @@
 # Project Description: Customer Call List Data Cleaning
 
+[**Link to collab Notebook on GitHub**](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/Data_cleaning_customer_call_data.ipynb)
+
 ## **Project Objective**
 
 This project focuses on the systematic cleaning of a customer call list dataset extracted from an Excel file ('Customer Call List.xlsx') using Python and the Pandas library. The main objective is to enhance data quality, address anomalies, and prepare the dataset for subsequent analysis.
