@@ -1,4 +1,4 @@
-# Project 1 : Apparel Inventory Store Data Analysis (Interactive Dashboard creation using MS Excel)
+# Project 1 : Ecommerce -Apparel Inventory Store Data Analysis (Interactive Dashboard creation using MS Excel)
 
 ## **Project Objective**
 
