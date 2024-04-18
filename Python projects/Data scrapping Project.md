@@ -1,4 +1,4 @@
-# Project 1 Description: Web Scraping and Data Analysis with Pandas
+# Project  Description: Web Scraping and Data Analysis with Pandas
 
 [**Link to collab Notebook on GitHub**](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/Data_scrapping_%26pandas_project.ipynb)
 
