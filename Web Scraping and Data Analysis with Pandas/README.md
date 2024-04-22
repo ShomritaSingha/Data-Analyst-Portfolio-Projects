@@ -64,6 +64,8 @@ The project begins with the essential steps of web scraping:
 
 - **Table Extraction:** Locating and extracting the relevant table containing the company data.
 
+![world population scrapped table](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/assets/139176490/4007839a-f6e1-4b30-a53f-8fe957b3e91b)
+
 ### 2. Data Cleaning and Structuring
 
 Once the data is scraped, the focus shifts to cleaning and structuring:
@@ -86,7 +88,8 @@ The project incorporates data visualization using Matplotlib:
 
  ## **Dashboard**
 
-![Alt text of the image](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Python%20projects/Industry%20ranking%20Usa%20Top%20Data%20scappring%20project.png)
+
+![Industry ranking Usa Top Data scappring project](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/assets/139176490/ce23bbf2-afa0-406c-90f1-cbadbe8e243f)
 
 
 ### 5. Data Quality Check
