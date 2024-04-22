@@ -91,7 +91,7 @@ In this section, I have elaborately explained each and every step-by-step proces
 
 ## **Dashboard**
 
-![Alt text of the image]([https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Ecommerce%20Sales%20analysis%20with%20Excel/Apparel%20store%20dashboard.png))
+![Alt text of the image]([[https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Ecommerce%20Sales%20analysis%20with%20Excel/Apparel%20store%20dashboard.png)](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Ecommerce%20Sales%20analysis%20with%20Excel/Apparel%20store%20dashboard.png?raw=true))
 
 
 ## **Project Insight**
