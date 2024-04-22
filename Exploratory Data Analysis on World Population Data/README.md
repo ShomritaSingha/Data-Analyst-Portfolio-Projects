@@ -2,7 +2,7 @@
 # Exploratory Data Analysis on World Population Data
 
 
-[**Link to collab Notebook on GitHub**](https://colab.research.google.com/drive/1V5i8RIOoBL05dei_xLy6Lss4izFQvEwC)
+[**Link to collab Notebook on GitHub**](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/3ce536ff6975d9443e33869bea1b8a473411d95d/Exploratory%20Data%20Analysis%20on%20World%20Population%20Data/EDA_worldPopulation.ipynb)
 
 ## Introduction:
 
