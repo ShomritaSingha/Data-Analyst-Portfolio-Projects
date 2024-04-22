@@ -5,7 +5,8 @@
 The Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2023.
 
 ## **Dataset used**
-[Store Data Analysis](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20Inventory%20Store%20Data%20Analysis%20(1).xlsx)
+[Store Data Analysis][Apparel Inventory Store Data Analysis (1).xlsx](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/files/15068457/Apparel.Inventory.Store.Data.Analysis.1.xlsx)
+
 
 
 ## **KPIs to consider**
@@ -85,7 +86,7 @@ In this section, I have elaborately explained each and every step-by-step proces
 
 ### Highest Selling Category Visualized:
 - A visual representation of the highest selling category was provided, simplifying the process of identifying the top-performing category.
-<a href="https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/blob/main/Excel%20Projects/Apparel%20store%20dashboard.png">dashboard interactive</a> and dynamic.
+
 
 
 
