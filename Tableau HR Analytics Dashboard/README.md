@@ -1,5 +1,7 @@
 ### Unveiling Insights: HR Analysis Attrition Dashboard
 
+For interactive exploration, view the [HR Analysis Attrition Dashboard](https://public.tableau.com/views/HranalyticsattritonDashboard/HrAnalyticsDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+
 In today's competitive business landscape, understanding the intricacies of employee attrition is crucial for maintaining a sustainable workforce and fostering a conducive work environment. Here, we present the findings from our HR Analysis Attrition Dashboard, shedding light on key metrics and trends that impact organizational dynamics.
 
 #### Employee Demographics
