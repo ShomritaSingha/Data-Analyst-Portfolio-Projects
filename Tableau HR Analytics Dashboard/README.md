@@ -34,6 +34,7 @@ An analysis of attrition rates by age groups highlights significant variations, 
 
 ##### Attrition Rate by Gender with Different Age Groups
 Further dissecting attrition rates by gender and age groups unveils intriguing patterns, with distinct trends observed among different demographic segments.
+
 ![Screenshot 2024-04-23 034319](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/assets/139176490/036a27dc-bc12-416b-bc63-fda1f9c91ca2)
 
 ##### Education-wise Attrition Rate
