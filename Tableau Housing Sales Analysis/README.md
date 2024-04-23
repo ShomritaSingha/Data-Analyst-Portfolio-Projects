@@ -45,8 +45,8 @@ As a data analyst, this project aimed to extract actionable insights from the Ki
 - **Definition**: Implementation of interactive features such as sliding filters and calendar widgets.
 - **Importance**: Allows users to interactively explore the data and gain deeper insights.
 - **Calculation**: Utilize Tableau dashboard features for user interaction.
-
-![House sales dash (1)]![House sales dash (1)](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/assets/139176490/30393881-6571-487b-b05e-5535e8ac7407)
+- 
+![House sales dash](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/assets/139176490/29e40fb3-eec4-450a-8070-cd8732391c82)
 
 ## Conclusion
 
