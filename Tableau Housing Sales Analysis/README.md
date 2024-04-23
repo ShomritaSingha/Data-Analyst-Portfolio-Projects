@@ -46,7 +46,8 @@ As a data analyst, this project aimed to extract actionable insights from the Ki
 - **Importance**: Allows users to interactively explore the data and gain deeper insights.
 - **Calculation**: Utilize Tableau dashboard features for user interaction.
 
-![House sales dash (1)]
+![House sales dash (1)]![House sales dash (1)](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/assets/139176490/30393881-6571-487b-b05e-5535e8ac7407)
+
 ## Conclusion
 
 By analyzing key performance indicators (KPIs) and other important metrics, this project provides valuable insights into the housing market dynamics in King County. Through data-driven analysis and interactive visualization, stakeholders in the real estate industry can make informed decisions to navigate the market effectively.
