@@ -46,9 +46,7 @@ Welcome to my GitHub repository showcasing my data analysis projects! Below, you
 
 [Explore Project Details](./Tableau%20Housing%20Sales%20Analysis)
 
----[Shomrita_Resume.pdf](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/files/15100454/Shomrita_Resume.pdf)
-
 
 ## My CV
 
-For more details about my qualifications and experience, please refer to my [CV](link_to_your_cv_here).
+For more details about my qualifications and experience, please refer to my [CV](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/files/15100454/Shomrita_Resume.pdf).
