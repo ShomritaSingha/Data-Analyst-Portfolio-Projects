@@ -49,4 +49,4 @@ Welcome to my GitHub repository showcasing my data analysis projects! Below, you
 
 ## My CV
 
-For more details about my qualifications and experience, please refer to my [CV](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/files/15100454/Shomrita_Resume.pdf).
+For more details about my qualifications and experience, please refer to my [CV](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects/CV/Shomrita_Resume.pdf).
