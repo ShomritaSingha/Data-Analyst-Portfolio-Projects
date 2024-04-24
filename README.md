@@ -45,3 +45,9 @@ Welcome to my GitHub repository showcasing my data analysis projects! Below, you
 - Conducted correlation analysis for market trends.
 
 [Explore Project Details](./Tableau%20Housing%20Sales%20Analysis)
+
+---
+
+## My CV
+
+For more details about my qualifications and experience, please refer to my [CV](link_to_your_cv_here).
